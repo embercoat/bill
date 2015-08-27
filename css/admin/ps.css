@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+#schedule {
+	background-color: #eaeaea;
+	margin-top: 10px;
+	font-size: 1.1em;
+
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	
+}
+
+#schedule tbody tr{
+	height: 50px;
+	border-bottom: 2px dotted #B20933;
+
+}
+#schedule tbody tr td{
+	padding:5px;
+	border-left: 0px solid black;
+}
+#schedule .occupied {
+	border: 2px dotted #B20933;
+	color: #000000;
+	font-size: 1.0em;
+	line-height: 120%;
+
+}

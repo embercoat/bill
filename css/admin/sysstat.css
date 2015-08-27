@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+.error{
+	width: 800px;
+	background-color: #fff2f2;
+    border: 1px solid #ff6e70;
+	padding: 8px 10px;
+    color: #555555;
+    font-size: 12px;
+    margin: 5px 2px;
+	font-weight: bold;
+
+}
+.green{
+	width: 800px;
+    background-color: #e7f9e7;
+    border: 1px solid #7cc17c;
+	padding: 8px 10px;
+    color: #555555;
+    font-size: 12px;
+	margin: 5px 2px;
+	font-weight: bold;
+}
